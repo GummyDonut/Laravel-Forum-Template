@@ -1,7 +1,7 @@
-NewArkStudios Website
-Written in Lararvel Framework
+#Forum Template Created Using the Laravel Framework
+####Originally made for NewArkstudios but removed references to project itself
 
-Debug Tools
+##Debug Tools
 -laravel
 -laravel debugbar
 
